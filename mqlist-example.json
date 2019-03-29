@@ -1,0 +1,8 @@
+[{
+	"name": "DFWTINTRA",
+	"ip": "172.16.33.55",
+	"port": 1800,
+	"ccsid": 1381,
+	"channel": "JAVA.CHANNEL",
+	"queues": ["CUS_TO_ENT", "CUS_TO_ENT_INVT"]
+}]
